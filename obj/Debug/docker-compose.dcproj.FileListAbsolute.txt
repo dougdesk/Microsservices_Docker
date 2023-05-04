@@ -1,0 +1,1 @@
+C:\Macoratti\Microsservices2\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
